@@ -12,6 +12,6 @@ window.addEventListener('load', ()=>{
     console.log(anchor_element)
     var button = document.getElementById("just_button");
     button.onclick = function () {
-        alert("Hello!!!")
+        alert("Salamaleikum djigi!!!")
     }
 })
